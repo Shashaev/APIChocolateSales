@@ -6,7 +6,7 @@
 
 Запуск проекта через Docker:
 ```bash
-sudo docker run -p 9876:9876 shashaevkirill/APIChocolateSales
+sudo docker run -p 9876:9876 shashaevkirill/apichocolatesales
 ```
 
 Далее идёт инструкция по мануальному запуску.
